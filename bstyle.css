@@ -1,0 +1,8 @@
+body {
+    background-color: #a3d2ca;
+    background-image: url(nice-snow.png);
+}
+.container {
+    margin-top: 150px;
+    text-align: center;
+}
