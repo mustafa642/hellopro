@@ -1,4 +1,6 @@
-
+body {
+    overflow-x: hidden;
+}
 .loader {
     position: fixed;
     z-index: 999999;
