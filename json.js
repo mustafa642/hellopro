@@ -24,13 +24,6 @@ anime.timeline({loop: true})
     
  });
 
-
-$(".nav-link").click(function(){
-  $(".nav-link").removeClass("active2");
-  $(this).addClass("active2");
-  
-});
-
 var typed = new Typed('.typ2', {
   strings: ['Create Your', 'Own Design'],
   smartBackspace: true,
